@@ -4,7 +4,7 @@
 🏋🏼 **Currently open for Job** 
 
 🚀 **Experience: 1 year** 
-✒️ **My curriculum vitae: <a href="https://timeless.com](https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**   
+✒️ **My curriculum vitae: <a href="https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**   
 💼 **Location working: Viet Nam**  
 📚 **Learning: currently learning React Native and more**  
 
