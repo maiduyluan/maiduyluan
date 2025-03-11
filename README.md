@@ -1,12 +1,11 @@
 # Hey folks 👋  
-## I'm Mai Duy Luan - A software engineer !  
+## I'm Luan - A software engineer !  
 
 🏋🏼 **Currently open for Job** 
 🚀 **Experience: 1 year** 
 ✒️ **My curriculum vitae**   
 💼 **Location working: Viet Nam**  
 📚 **Learning: currently learning React Native and more**  
-📱 **Built Dashing Dish** ([iOS](#) & [Android](#)), [HomestayMatch](https://homestaymatch.com)  
 
 ### 🔥 Languages & Tools  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
