@@ -4,9 +4,8 @@
 🏋🏼 **Currently open for Job** 
 
 🤖 **Check out my social medias: <a href="https://www.linkedin.com/in/mai-duy-lu%C3%A2n-838626250/" target="_blank">Linkedln</a>**
-
-🚀 **Experience: 1 year** 
 ✒️ **My curriculum vitae: <a href="https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**   
+🚀 **Experience: 1 year**
 💼 **Location working: Viet Nam**  
 📚 **Learning: currently learning React Native and more**  
 
