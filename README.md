@@ -1,11 +1,11 @@
 # Hey folks 👋  
 ## I'm Luan - A software engineer !  
 
-🏋🏼 **Currently open for Job** 
+🏋🏼 **Currently open for Job**
+🚀 **Experience: 1 year**
 
 🤖 **Check out my social medias: <a href="https://www.linkedin.com/in/mai-duy-lu%C3%A2n-838626250/" target="_blank">Linkedln</a>**
 ✒️ **My curriculum vitae: <a href="https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**   
-🚀 **Experience: 1 year**
 💼 **Location working: Viet Nam**  
 📚 **Learning: currently learning React Native and more**  
 
