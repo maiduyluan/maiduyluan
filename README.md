@@ -3,7 +3,7 @@
 
 🏋🏼 **Currently open for Job**
 
-🚀 **Experience: 1 year**
+🚀 **Experience: 1 year**  
 💼 **Location working: Viet Nam**       
 👋🏼 **Visit my portfolio: <a href="https://v0-duy-luan-portfolio.vercel.app/" target="_blank">Duy Luan Portfolio</a>**      
 ✒️ **My curriculum vitae: <a href="https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**       
