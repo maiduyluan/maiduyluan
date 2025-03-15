@@ -3,7 +3,7 @@
 
 🏋🏼 **Currently open for Job**
 
-🚀 **Experience: 1 year**
+🚀 **Experience: 1 year**   
 👋🏼 **Visit my portfolio: <a href="https://v0-duy-luan-portfolio.vercel.app/" target="_blank">Duy Luan Portfolio</a>**
 ✒️ **My curriculum vitae: <a href="https://itviec.com/cv-preview" target="_blank">SE_DuyLuan</a>**  
 🤖 **Check out my social medias: <a href="https://www.linkedin.com/in/mai-duy-lu%C3%A2n-838626250/" target="_blank">Linkedln</a>** 
