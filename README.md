@@ -3,7 +3,7 @@
 
 🏋🏼 **Currently open for Job**
 
-🚀 **Experience: 1 year**  
+🚀 **Experience: 3 years**  
 💼 **Location working: Viet Nam**       
 👋🏼 **Visit my portfolio: <a href="https://duy-luan-portfolio.vercel.app/" target="_blank">Duy Luan Portfolio</a>**           
 🤖 **Check out my social medias: <a href="https://www.linkedin.com/in/mai-duy-lu%C3%A2n-838626250/" target="_blank">Linkedln</a>**   
